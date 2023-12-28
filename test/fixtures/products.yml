@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+wii:
+  title: Nintendo wii
+  description: No esta nada mal
+  price: 146
+
+two:
+  title: Nintendog
+  description: Pantalla mal
+  price: 132
